@@ -77,7 +77,6 @@ public class MainActivity extends Activity implements OnClickListener {
 			
 		});
 		
-		
 		new Thread(new Runnable() {
 			
 			@Override
